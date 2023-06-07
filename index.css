@@ -1,0 +1,52 @@
+.calc-input {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 2rem;
+    height: 50px;
+    border: none !important;
+    margin-left: 0.10px;
+    margin-right: 0.10px;
+}
+
+.calc-input:focus {
+    outline: none;
+
+}
+
+.calci {
+    margin: auto;
+    align-items: center;
+    position: relative;
+    height: 350px;
+    background-color: black;
+}
+
+.card {
+    border-radius: 2rem;
+
+}
+
+html {
+    width: 400px;
+    height: 350px;
+}
+
+.container {
+    display: flex;
+    height: auto;
+    border-radius: 2rem;
+}
+
+.grid {
+    border-radius: 2rem;
+
+}
+
+.btn.col-2 {
+    width: 80px;
+    font-weight: 700;
+}
+
+.equal-to {
+    color: white !important;
+}
