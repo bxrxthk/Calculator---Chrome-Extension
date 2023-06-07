@@ -17,7 +17,7 @@ To install the calculator Chrome extension, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone <repository_url>
+   git clone https://github.com/bxrxthk/Calculator---Chrome-Extension.git
    ```
 
 2. Open Google Chrome and navigate to the Extensions page by entering the following URL in the address bar:
