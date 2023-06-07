@@ -47,8 +47,6 @@ To use the calculator extension, follow these instructions:
 
 5. If you encounter any errors, such as division by zero or invalid input, an appropriate error message will be displayed.
 
-6. Close the calculator panel by clicking the close button (X) or by clicking outside the panel.
-
 ## Contributing
 
 Contributions to this calculator Chrome extension are welcome! If you would like to contribute, please follow these steps:
